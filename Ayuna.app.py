@@ -1,6 +1,7 @@
 import streamlit as st
 from fpdf import FPDF
 from datetime import datetime
+pip install streamlit fpdf num2words
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Kwitansi Otomatis", layout="centered")
